@@ -1,4 +1,4 @@
-# My_Recommendation_Seminar
+# LAB_Seminar_Recommendation_Systems
 
 Jihwan Lee Machine Learning Lab Presentations
 
